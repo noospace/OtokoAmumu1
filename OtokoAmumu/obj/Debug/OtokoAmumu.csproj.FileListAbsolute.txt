@@ -1,0 +1,13 @@
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\OtokoAmumu.exe.config
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\OtokoAmumu.exe
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\OtokoAmumu.pdb
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\LeagueSharp.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\SharpDX.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\clipper_library.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\LeagueSharp.Sandbox.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\bin\Debug\LeagueSharp.xml
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\obj\Debug\OtokoAmumu.csprojResolveAssemblyReference.cache
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\obj\Debug\OtokoAmumu.exe
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\OtokoAmumu\obj\Debug\OtokoAmumu.pdb
